@@ -8,7 +8,7 @@ function Home() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              src="https://media-exp1.licdn.com/dms/image/C5603AQFR7B1wOgY6VA/profile-displayphoto-shrink_400_400/0/1594169390668?e=1640217600&v=beta&t=o-n2Og3i4J0N7ll5akPgIWyV9QQvre9SrURDOTNz3pw"
               alt=""
             />
           </div>
